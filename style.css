@@ -69,5 +69,8 @@ a:hover{ color: #000000; text-decoration: underline; }
   section{ box-shadow:none; background:#050505 !important; color:#000 !important; }
   body{ background:#0e0d0d; color:#000; }
 }
+.project-card {
+  margin-bottom: 30px; /* giãn card theo chiều dọc */
+}
 
 
